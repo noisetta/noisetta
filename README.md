@@ -1,6 +1,6 @@
 # noisetta
 
-I build audio-focused Linux tools, HiBy DAP mods, and small utilities for people who like understanding what their audio gear is actually doing.
+I build Linux audio tools, HiBy DAP mods, and utilities for understanding audio gear.
 
 Current focus:
 - HiBy R3 Pro II / SpotUI experiments
